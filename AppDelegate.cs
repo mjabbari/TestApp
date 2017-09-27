@@ -13,8 +13,11 @@ namespace ColorTap
 		public override UIWindow Window {
 			get;
 			set;
-		}
 
+
+
+		}
+        int i = 0;
 		public override bool FinishedLaunching (UIApplication application, NSDictionary launchOptions)
 		{
 			// Override point for customization after application launch.
