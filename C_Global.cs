@@ -15,6 +15,7 @@ namespace ColorTap
 		public static nfloat speedInc = 2.5f;
 
 		public static nfloat scrWidth2;
+        public static nfloat scrWidth3;//v2
 
 		public static nfloat scrWidth;
 		public static nfloat scrHeight;
